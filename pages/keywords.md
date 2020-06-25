@@ -9,6 +9,8 @@ reuses:
   - 5eb2c6d45adcbd021d7b6cd5
 datasets:
   - depenses-d-assurance-maladie-hors-prestations-hospitalieres-donnees-nationales
+menu:
+  - footer
 ---
 
 # keywords!
